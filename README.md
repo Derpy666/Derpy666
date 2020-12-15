@@ -10,7 +10,7 @@ Languages and Tools:
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derpy666&theme=dark&langs_count=8&layout=demo)
-![Derpy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Derpy&theme=dark)
+![Derpy's wakatime stats](https://wakatime.com/share/@Derpy/96cff474-6043-49d4-89f6-07e10927a940.png)
 <br>
 ![Derpy's github stats](https://github-readme-stats.vercel.app/api?username=Derpy666&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 <br>
