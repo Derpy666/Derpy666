@@ -1,6 +1,6 @@
 ### 👋 Hello, Welcome to my profile 👋
 
-- 😄 I'm 18 years old
+- 😄 I'm 19 years old
 - You can reach me though Discord: `Derpy#6666`, or e-mail: `noamgl2002@gmail.com`
 
 Languages and Tools:
